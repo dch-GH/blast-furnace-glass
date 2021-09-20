@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "blastfurnaceglass",
+  "version": "1.0.0",
+  "name": "Blast Furnace Sand",
+  "description": "Adds blast furnace glass recipe.",
+  "authors": [
+    "Jays"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/Ephememory/blast-furnace-glass"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/blastfurnaceglass/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
