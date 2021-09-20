@@ -12,7 +12,7 @@
     "sources": "https://github.com/Ephememory/blast-furnace-glass"
   },
   "license": "CC0-1.0",
-  "icon": "assets/blastfurnaceglass/icon.png",
+  "icon": "assets/blastfurnaceglass/iconnew.png",
   "environment": "*",
   "entrypoints": {},
   "mixins": [],
